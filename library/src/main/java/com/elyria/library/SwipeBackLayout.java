@@ -1,4 +1,4 @@
-package com.elyria.swipeback;
+package com.elyria.library;
 
 import android.content.Context;
 import android.graphics.Canvas;
